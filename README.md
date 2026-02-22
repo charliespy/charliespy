@@ -19,7 +19,3 @@
 
 - **Contributing to open-source AI tools** — actively working on [hao-ai-lab/research-agent](https://github.com/hao-ai-lab/research-agent)
 - **Automating the boring stuff** — if it can be scripted, it should be
-
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=charliespy&show_icons=true&theme=default&hide_border=true)](https://github.com/charliespy)
