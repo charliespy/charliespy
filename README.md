@@ -12,7 +12,6 @@
 
 ## Past Work
 
-- 🚀 **[Tandem AI](https://www.tandemai.tech/)** (startup) — LeetCode for the AI-native era. Evaluates how candidates plan and build with AI — capturing how engineers actually think, not just what they type.
 - 🔬 **[Research Agent](https://github.com/hao-ai-lab/research-agent)** — AI-powered research assistant for ML experiment tracking.
 - ⛳ **[Tee Time Helper](https://github.com/charliespy/Tee-Time-Helper)** — Automated golf tee time booking tool with two modes: continuous scan for cancellations and instant grab at release time.
 - ⚡ **[US-Power-Outages-Analysis](https://github.com/charliespy/US-Power-Outages-Analysis)** (pre-ChatGPT class project) — Investigated what drives major U.S. power outages and modeled outage duration to inform grid resilience planning.
