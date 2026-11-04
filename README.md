@@ -9,7 +9,7 @@
 ## Current Work
 
 - 📊 **[MicroBenchmark](https://github.com/AISmithLab/MicroBenchmark-Releases)** — A desktop app that turns AI work you've already done in Claude Code and Codex into personal benchmarks, then blind-compares models and agents against it.
-- 🖥️ **[Reminal](https://github.com/harshalgajjar/Reminal)** — Close the lid and walk away: every window, desktop and terminal on your machines, live in any browser. End-to-end encrypted, with no open ports, no client and no account.
+- 🖥️ **[Reminal](https://github.com/harshalgajjar/Reminal)** (open source) — Close the lid and walk away: every window, desktop and terminal on your machines, live in any browser. End-to-end encrypted, with no open ports, no client and no account.
 
 ## Past Work
 
